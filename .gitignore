@@ -1,0 +1,11 @@
+*~
+*.pyc
+*.results
+*.log
+*.html
+
+build
+
+/test/creole/*.xml
+/src/mfgames-docbookc
+/src/mfgames-creolec
